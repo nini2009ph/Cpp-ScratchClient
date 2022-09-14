@@ -3,7 +3,7 @@ This is a C++ version of <https://github.com/CubeyTheCube/scratchclient> with si
 
 This project was made with permission from the creator of scratchclient <https://github.com/CubeyTheCube>.
 
-Note: This is only pre-alpha
+Note: This project is only in alpha and is far from done.
 
 # Build
 Comming Soon!
