@@ -63,5 +63,5 @@ int main() {
 
 ```
 
-#Help
+# Help
 If you need help go to my Scratch profile: <https://scratch.mit.edu/users/nini2009ph/> or submit an issue.
