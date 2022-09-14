@@ -4,7 +4,7 @@ This is a C++ version of <https://github.com/CubeyTheCube/scratchclient> with si
 This project was made with permission from the creator of scratchclient <https://github.com/CubeyTheCube>.
 
 #Build
-Comming Soon!
+Comming Soon!.
 
 #Usage
 
