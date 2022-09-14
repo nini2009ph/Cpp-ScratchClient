@@ -31,6 +31,6 @@ void scratchclient::ScratchSession::get_csrf_token() {
 }
 
 scratchclient::ScratchSession::ScratchSession(std::string username, std::string password, std::string session_id, std::string x_token) : username(username), password(password), session_id(session_id), x_token(x_token) {
-	if(password != "") login();
+	if (password != "") login();
 	get_csrf_token();
 }
