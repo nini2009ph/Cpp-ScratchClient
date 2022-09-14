@@ -9,8 +9,6 @@ Note: This project is only in alpha and is far from done.
 Comming Soon!
 
 # Usage
-
-Basic usage:
 ```cpp
 
 #include "scratchclient.hpp"
